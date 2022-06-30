@@ -1,0 +1,1 @@
+CREATE TABLE `products` (id VARCHAR(40), name VARCHAR(255), price DECIMAL(10,2), quantity INT, status VARCHAR(20));

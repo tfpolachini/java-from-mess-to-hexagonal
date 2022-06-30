@@ -1,0 +1,1 @@
+INSERT INTO products (id, name, price, quantity, status) VALUES ('eaf40570-f3a9-4977-bfd7-1bc640965ee8', 'chocolate', 5.00, 0, 'ENABLED')
